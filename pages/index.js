@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className={styles.home}>
       <Head>
-        <title>Headers for Guy</title>
+        <title>next-date-example</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
