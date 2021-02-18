@@ -1,0 +1,13 @@
+.header span[role="field"] {
+  display: flex;
+  flex-direction: column;
+  margin-right: 0.8rem;
+}
+
+.header span[role="field"]:last-child {
+  margin-right: 0;
+}
+
+.header span[role="field"] > label {
+  margin-bottom: 0.4rem;
+}

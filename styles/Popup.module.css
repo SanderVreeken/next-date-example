@@ -1,0 +1,12 @@
+.popup {
+  position: relative;
+}
+
+.popup div[role="popup"] {
+  background-color: white;
+  border: 1px solid var(--main-border-color);
+  border-radius: var(--main-border-radius);
+  height: 182px;
+  position: absolute;
+  width: 112%;
+}
